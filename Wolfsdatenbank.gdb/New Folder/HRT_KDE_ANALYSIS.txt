@@ -1,0 +1,38 @@
+
+
+======================================================================
+
+
+
+HRT Kernel Density Analysis
+
+Start Time: 5/27/2019 4:40:26 PM
+Input Data: Wolfdatenbank
+Unique ID Field: NTRISS_BEW
+Text based UID field detected - unique numerical ID's generated automatically
+
+Unique ID name remapping (unique ID, naming ID):
+wsi      1
+      
+      
+      
+
+
+Variances of x and y coordinates: 
+System.Windows.Forms.ComboBox, Items.Count: 67, Count, StdDev_X, StdDev_Y, Ratio(x:y)
+wsi, 165, 28029.19, 29018.43, 0.97
+
+
+Kernel Settings
+Kernel type: fixed
+Bandwidth estimator: HREF
+Output Folder: C:\Users\Gift\Downloads\Wolfsdatenbank.gdb\New Folder
+Raster Prefix name: kde
+Raster Cell Size: 100
+Scaling Factor: 1000000
+Extent Setting: Full
+Isopleths not calculated/n
+Case specific settings
+Finish Time: 5/27/2019 4:40:29 PM
+Processing Complete
+

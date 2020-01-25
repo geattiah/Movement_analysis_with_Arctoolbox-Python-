@@ -1,0 +1,30 @@
+[RESCALE]
+False
+[kernel]
+True
+[form]
+Gaussian (bivariate normal)
+[lscv]
+False
+[bcv]
+[href]
+True
+[manual]
+False
+[outfolder]
+C:\Users\Gift\Downloads\Wolfsdatenbank.gdb\New Folder
+[prefix]
+kde
+[cellsize]
+100
+[scaling]
+1000000
+[verbose]
+True
+[extent]
+full
+2000
+[iso]
+False
+[silent]
+False
